@@ -1,0 +1,14 @@
+body {
+  background: lightblue;
+}
+
+th,td {
+  background-color: beige !important;
+}
+
+.table #hiddenBtn {
+  display: none;
+}
+.table tr:hover #hiddenBtn {
+  display: block;
+}
